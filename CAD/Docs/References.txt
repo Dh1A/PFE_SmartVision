@@ -34,26 +34,27 @@ profilée 40*40mm p84040L (2*712mm)+(2*800mm)
 
 http://www.3dcontentcentral.fr/Search.aspx?arg=p88040&PageSize=10&SortBy=match
 
-Vis tête marteau 8 M6x20 (84)
+Vis tête marteau 8 M6x20 VTM8M6X20 (86 +16)
 http://www.3dcontentcentral.fr/Search.aspx?arg=Transept%20Giltec&suppliernavigator=Transept%20Giltec&keywordsnavigator=Bolts&SortBy=match&PageSize=10
 
-Equerre Eco 6 40x40x20 Al Brut  W64020AL (8)
-http://www.3dcontentcentral.fr/Search.aspx?arg=w64020al&PageSize=10&SortBy=match
+ Equerre Eco 8 80x80x40 Al Brut  W88040AL (12)
+http://www.3dcontentcentral.fr/Search.aspx?arg=Transept%20Giltec&suppliernavigator=Transept%20Giltec&keywordsnavigator=Angle%20Plates&SortBy=match&PageSize=10&page=4
+
 
 Roulette pivotante lourde à blocage D125   RPLD 125 F (4)
 http://www.3dcontentcentral.fr/Search.aspx?arg=rpld125f&PageSize=10&SortBy=match
 
 
-Embout 8 40x40 (8) AK840X40 
+Embout 8 40x40 (4) AK840X40 
 
 http://www.3dcontentcentral.fr/secure/download-model.aspx?catalogid=8378&id=366998
-
-Embout 8 80x40 (8) AK880x40
+*
+Embout 8 80x40 (4) AK880x40
 
 http://www.3dcontentcentral.fr/secure/download-model.aspx?catalogid=8378&id=367005
-
-
-
+*
+Embout équerre Eco 80x80x40 Al Brut (8+4)  WAK88080
+http://www.3dcontentcentral.fr/secure/download-model.aspx?catalogid=8378&id=365643
 
 
 
