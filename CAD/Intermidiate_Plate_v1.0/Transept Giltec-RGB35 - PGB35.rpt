@@ -1,0 +1,66 @@
+*****************************************************************
+      SolidWorks Corporation - Compte-rendu d'état du Processeur IGES
+*****************************************************************
+=================================================================
+Informations générales
+=================================================================
+Envoi de l'identification du produit système en cours  : 410B99B8-2215-40FA-BE93-2617E450658D
+Réception de l'identification du produit système en cours: 410B99B8-2215-40FA-BE93-2617E450658D
+Nom de fichier                    : \\PSSILO\catalogs\Transept Giltec\RGB35 - PGB35\Cache\{53BC3627-7DA7-427B-A0A5-15065D10076F}\D17776A3-1F1D-417C-931B-ECC635DE56A2.IGS
+Envoi du système en cours               : SolidWorks 2018
+Version du préprocesseur         : SolidWorks 2018
+Date de création du fichier           : 180129.115605
+Date de création du modèle          : 180129.115605
+Unités                        : MM
+Echelle de l'espace modèle            : 1
+Auteur                       : partstream
+Organisation                 : 
+
+
+=================================================================
+Informations sur le traitement des entités
+=================================================================
+
+
+=================================================================
+Analyse de précision d'un fichier IGES:
+=================================================================
+  Nombre le plus répandu de chiffres significatifs:               3
+  Nombre le plus grand de chiffres significatifs:                     12
+  Nombre moyen de chiffres significatifs :                5.84396
+  Distance maximale jusqu'à l'origine:                          1463.19
+  Distance minimale jusqu'à l'origine:                                0
+  Nombre effectif de chiffres significatifs:                   12
+
+
+=================================================================
+Récapitulatif des entités
+=================================================================
+-----------------------------------------------------------------
+Nom de type                                         Nombre converti
+---- ----                                         ----- ---------
+100  Arc                                            680       680
+102  Composite curve                               1340      1340
+110  Line                                          2214      2214
+120  Surface of revolution                          120       120
+124  Transformation matrix                          656       656
+126  Rational B-spline curve                       4426      4426
+128  Rational B-spline surface                      487       487
+142  Curve on a parametric surface                  670       670
+144  Trimmed parametric surface                     607       607
+314  Color definition                                 1         1
+_________________________________________________________________
+
+
+=================================================================
+Récapitulatif des résultats
+=================================================================
+Type de fonction SolidWorks                Nombre
+-----------------------                -----
+Fonction(s) volumique(s)                       2
+Fonction(s) surfacique(s)                     0
+Fonction(s) de courbe/d'esquisse                0
+--------------------------------------------
+Heure de début: lundi, janvier 29, 2018 18:01:52
+Heure de fin: lundi, janvier 29, 2018 18:02:55
+Durée de traitement: 0 days, 00 hours, 01 mins, 03 secs
